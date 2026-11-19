@@ -52,6 +52,7 @@ __plugin_meta__ = PluginMetadata(
     ),
     usage="无需命令，自动生效。可通过环境变量配置模型、表情 ID、群白名单与限流。",
     type="application",
+    homepage="https://github.com/MortisBot/nonebot-plugin-music-score-reactor",
     supported_adapters={"~onebot.v11"},
 )
 
